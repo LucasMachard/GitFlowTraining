@@ -29,7 +29,7 @@
 
         public float Power(float op1, float op2)
         {
-            throw new NotImplementedException();
+            return op1 * op1;
         }
     }
 }
